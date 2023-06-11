@@ -55,9 +55,9 @@
                     <li class="show">
                       <a href="#">Home</a>
                     </li>
-                    <li><a href="about-us.html">About</a></li>
-                    <li><a href="game-overview.html">Overview</a></li>
-                    <li><a href="community.html">Community</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Overview</a></li>
+                    <li><a href="#">Community</a></li>
                   </ul>
                   <div class="logo">
                     <a href="index-3.html"
@@ -69,20 +69,20 @@
                       <a href="#">Pages</a>
                       <ul class="submenu">
                         <li>
-                          <a href="upcoming-games.html">Upcoming Games</a>
+                          <a href="#">Upcoming Games</a>
                         </li>
-                        <li><a href="game-single.html">Game Single</a></li>
+                        <li><a href="#">Game Single</a></li>
                       </ul>
                     </li>
-                    <li><a href="shop.html">Store</a></li>
+                    <li><a href="#">Store</a></li>
                     <li>
                       <a href="#">Blog</a>
                       <ul class="submenu">
-                        <li><a href="blog.html">News Page</a></li>
-                        <li><a href="blog-details.html">News Details</a></li>
+                        <li><a href="#">News Page</a></li>
+                        <li><a href="#">News Details</a></li>
                       </ul>
                     </li>
-                    <li><a href="contact.html">contact</a></li>
+                    <li><a href="#">contact</a></li>
                   </ul>
                 </div>
                 <div class="header-action">
@@ -101,41 +101,15 @@
             </div>
             <div class="mobile-menu-wrap d-block d-lg-none">
               <nav>
-                <div id="mobile-menu" class="navbar-wrap">
+                <div id="mobile-menu" class="navbar-wrap d-block">
                   <ul>
-                    <li class="show">
+                    <li >
                       <a href="#">Home</a>
-                      <ul class="submenu">
-                        <li><a href="index-2.html">Home One</a></li>
-                        <li><a href="index-3.html">Home Two</a></li>
-                        <li><a href="index-4.html">Home Three</a></li>
-                        <li><a href="index.html">Home Four</a></li>
-                        <li><a href="index-5.html">Home Five</a></li>
-                        <li><a href="index-6.html">Home Six</a></li>
-                        <li><a href="index-7.html">Home Seven</a></li>
-                      </ul>
                     </li>
-                    <li><a href="about-us.html">About</a></li>
-                    <li><a href="game-overview.html">Overview</a></li>
-                    <li><a href="community.html">Community</a></li>
-                    <li>
-                      <a href="#">Pages</a>
-                      <ul class="submenu">
-                        <li>
-                          <a href="upcoming-games.html">Upcoming Games</a>
-                        </li>
-                        <li><a href="game-single.html">Game Single</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="shop.html">Store</a></li>
-                    <li>
-                      <a href="#">Blog</a>
-                      <ul class="submenu">
-                        <li><a href="blog.html">News Page</a></li>
-                        <li><a href="blog-details.html">News Details</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="contact.html">contact</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Overview</a></li>
+                    <li><a href="#">Community</a></li>
+                   
                   </ul>
                 </div>
               </nav>
